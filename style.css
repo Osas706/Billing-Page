@@ -380,7 +380,6 @@ body{
     flex-direction: column;
     align-items: flex-start;
     gap: 16px;
-
     border-radius: 16px;
       background: #EE4D38;
   box-shadow: 0px 8px 19px 0px rgba(223, 223, 253, 0.60);
